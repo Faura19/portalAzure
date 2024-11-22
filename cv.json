@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jose Antonio",
-    "label": "I am a technician of multiplatform application development.",    
+    "label": "I am a technician of multiplatform application development.",
     "email": "joseantfaura14@gmail.com",
     "phone": "+34 671424806",
     "url": "https://midu.dev",
@@ -10,7 +10,7 @@
       "address": "",
       "postalCode": "41089",
       "city": "Dos Hermanas",
-      "countryCode": "Seville",
+      "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
@@ -18,7 +18,7 @@
         "network": "LinkedIn",
         "username": "Faura",
         "url": "https://www.linkedin.com/feed/"
-      },      
+      },
       {
         "network": "GitHub",
         "username": "Faura",
@@ -28,75 +28,91 @@
   },
   "work": [
     {
-      "position": "Programmer",        
-      "summary": "Although I don’t yet have professional work experience, I am a quick learner with a strong passion for personal and professional growth. I am dedicated, proactive, and highly motivated to contribute my best to any project. "
-    },
+      "position": "Programmer",
+      "summary": "Although I don’t yet have professional work experience, I am a quick learner with a strong passion for personal and professional growth. I am dedicated, proactive, and highly motivated to contribute my best to any project."
+    }
   ],
   "references": [
     {
       "name": "Jose Carlos",
       "type": "Academic Reference",
       "position": "Teacher at IES Vedruna",
-      "contact": [
-        "Phone: +34611223345",
-        "Email: joseka@example.com"
-      ]
+      "contact": {
+        "Phone": "+34611223345",
+        "Email": "joseka@example.com"
+      }
     },
     {
       "name": "Jorge Juan",
       "type": "Academic Reference",
       "position": "Teacher at IES Vedruna",
-      "contact": [
-        "Phone: +34611223344",
-        "Email: jorge@example.com"
+      "contact": {
+        "Phone": "+34611223344",
+        "Email": "jorge@example.com"
+      }
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "summary": "I am building a strong foundation in programming and technology to prepare for a successful career in the field.",
+      "position": "Higher technician in Multi-platform Application Development (2024/2025)"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
-      "name": "Punctual"      
+      "name": "Punctual"
     },
     {
       "name": "Leadership"
@@ -106,31 +122,23 @@
     },
     {
       "name": "Ease of adapting to the work environment"
-    },
-    
-    
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-    },   
+    }
   ],
-
-"formation":[
-  {
-    "formation": "I am building a strong foundation in programming and technology to prepare for a successful career in the field.",
-    "position":"Higher technician in Multi-platform application Development. 2024/2025",
-    "personality":"I am dedicated, proactive, and highly motivated to contribute my best to any project." 
-  },
-],
-      
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
   "hobbies": [
     {
       "name": "Travelling",
@@ -150,8 +158,7 @@
     },
     {
       "name": "Playing football",
-      "isActive": true   
-    },
-
+      "isActive": true
+    }
   ]
 }
