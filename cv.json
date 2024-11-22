@@ -29,7 +29,7 @@
   "work": [
     {
       "position": "Programmer",        
-      "summary": "Although I don’t yet have professional work experience, I am a quick learner with a strong passion for personal and professional growth. I am dedicated, proactive, and highly motivated to contribute my best to any project. ",
+      "summary": "Although I don’t yet have professional work experience, I am a quick learner with a strong passion for personal and professional growth. I am dedicated, proactive, and highly motivated to contribute my best to any project. "
     },
   ],
   "references": [
@@ -96,16 +96,16 @@
   }],
   "skills": [
     {
-      "name": "Punctual",      
+      "name": "Punctual"      
     },
     {
-      "name": "Leadership",   
+      "name": "Leadership"
     },
     {
-      "name": "Teamwork",
+      "name": "Teamwork"
     },
     {
-      "name": "Ease of adapting to the work environment",
+      "name": "Ease of adapting to the work environment"
     },
     
     
@@ -115,6 +115,15 @@
       "fluency": "Native speaker"
     },   
   ],
+
+"formation":[
+  {
+    "formation": "I am building a strong foundation in programming and technology to prepare for a successful career in the field.",
+    "position":"Higher technician in Multi-platform application Development. 2024/2025",
+    "personality":"I am dedicated, proactive, and highly motivated to contribute my best to any project." 
+  },
+],
+      
   "interests": [{
     "name": "Wildlife",
     "keywords": [
@@ -122,68 +131,27 @@
       "Unicorns"
     ]
   }],
-  "projects": [
+  "hobbies": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
+      "name": "Travelling",
+      "isActive": true
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
+      "name": "Chess",
+      "isActive": true
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
+      "name": "Listening to music",
+      "isActive": true
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "Strategy games",
+      "isActive": true
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "name": "Playing football",
+      "isActive": true   
     },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
+
   ]
 }
