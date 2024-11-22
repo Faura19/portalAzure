@@ -117,26 +117,5 @@
       "Unicorns"
     ]
   }],
-  "hobbies": [
-    {
-      "name": "Travelling",
-      "isActive": true
-    },
-    {
-      "name": "Chess",
-      "isActive": true
-    },
-    {
-      "name": "Listening to music",
-      "isActive": true
-    },
-    {
-      "name": "Strategy games",
-      "isActive": true
-    },
-    {
-      "name": "Playing football",
-      "isActive": true   
-    }
-  ]
+
 }
