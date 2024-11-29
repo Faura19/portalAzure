@@ -16,60 +16,60 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Faura",
-        "url": "https://www.linkedin.com/feed/"
+        "username": "midudev",
+        "url": "https://linkedin.com/in/midudev"
       },
       {
-        "network": "Instagram",
-        "username": "Faura",
-        "url": "https://www.instagram.com/josantoniofaura_/"
+        "network": "X",
+        "username": "midudev",
+        "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
-        "username": "Faura",
-        "url": "https://github.com/Faura19/portalAzure/edit/main/cv.json"
+        "username": "midudev",
+        "url": "https://github.com/midudev"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Faura",
+      "position": "Programmer in Vedruna",
+      "url": "https://twich",
+      "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "A good student in Vedruna",
       "highlights": [
-        "Started the company"
+        "javafx"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Jose Antonio",
+      "position": "Student of backend",
+      "url": "https://twitch",
+      "startDate": "2023-06-01",
+      "endDate": "2025-06-01",
+      "summary": "I have started with Java, MySQL and Python",
       "highlights": [
-        "Started the company"
+        "javafx"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Jose Antonio",
+      "position": "Junior Programmer",
+      "startDate": "2021-03-01",
+      "endDate": "2024-05-01",
+      "summary": "I have started with Java and have done many projects",
       "highlights": [
-        "Started the company"
+        "javafx"
       ]
     }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
+      "name": "MrHarvyson",
+      "type": "Academic Vedruna",
+      "url": "https://twitch",
       "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
         "Phone: +34611223345",
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Jorge Juan",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "https://twitch",
+      "position": "Teacher of Java",
       "contact": [
         "Phone: +34611223344",
-        "Email: Va5q8@example.com"
+        "Email: Va56q8@example.com"
       ]
     }
   ],
@@ -91,20 +91,20 @@
     "organization": "Organization",
     "position": "Volunteer",
     "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "startDate": "2022-01-01",
+    "endDate": "2023-01-01",
     "summary": "Description…",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "School of Vedruna",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "area": "Backend",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -118,8 +118,8 @@
   }],
   "certificates": [{
     "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
+    "date": "2023-11-07",
+    "issuer": "Java",
     "url": "https://certificate.com"
   }],
   "publications": [{
@@ -131,43 +131,15 @@
   }],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Python",
+      "level": "Basic",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
+      "name": "Punctual",
+      "level": "Punctual",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
@@ -255,64 +227,64 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "MySQL",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Many projects the last year",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Subquery",
+        "Consult"
       ],
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
+      "name": "Java",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Inheritance and class",
       "highlights": [
-        "+1 million visits",
+        "Many projects the last year",
         "Multilanguage",
-        "JavaScript & TypeScript"
+        "JavaScript"
       ],
       "url": "https://advent.js/dev"
     },
     {
-      "name": "Codember",
+      "name": "Python",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Exercises with MariFer",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "+Conditionals",
+        "Class"
       ],
       "url": "https://codember.dev"
     },
     {
-      "name": "codi.link",
+      "name": "System",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "Class with Ramon Galdon",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "PostMan",
+        "API"
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "FOL",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "Payroll",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "questionnaire",
+        "exams"
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "Javafx",
+      "description": "Game of ships",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "Saved game",
+        "Many games"
       ],
       "url": "https://miduconf.com"
     }
