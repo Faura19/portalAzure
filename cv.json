@@ -1,7 +1,8 @@
 {
   "basics": {
     "name": "Jose Antonio",
-    "label": "I am a technician of multiplatform application development.",    
+    "label": "I am a technician of multiplatform application development.",
+    "image":"",
     "email": "joseantfaura14@gmail.com",
     "phone": "+34 671424806",
     "url": "https://midu.dev",
